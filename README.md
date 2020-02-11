@@ -4,7 +4,10 @@
 
 This repository is for the Pycon Limerick 2020 Git workshop. 
 
-
+- [Description](#Description	)
+- [Before the workshop](#Before-the-workshop)
+  - [Installing Git](#Installing-Git)
+  - [Getting an account on GitHub](#Getting-an-account-on-github)
 
 ### Description 
 
